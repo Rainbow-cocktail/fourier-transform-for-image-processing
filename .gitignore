@@ -1,0 +1,17 @@
+# Python / Jupyter temporary files
+__pycache__/
+.ipynb_checkpoints/
+.jupyter-config/
+.jupyter-data/
+.jupyter-runtime/
+.ipython/
+.matplotlib/
+
+# Local environments and editor settings
+.venv/
+venv/
+.idea/
+.vscode/
+
+# User-provided test images
+your_image.png
